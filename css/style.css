@@ -1,0 +1,26 @@
+#header{
+    color: white;
+    background: #e74c3c;
+}
+#logo{
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+
+}
+#menu li a{
+    color: white;
+    padding: 15px 10px;
+    display: block;
+}
+#menu li a:hover{
+    background: #c0392b;
+   
+}
